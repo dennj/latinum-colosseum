@@ -1,3 +1,6 @@
+> **⚠️ WARNING:** This is an **old** repository for the Colosseum submission.  
+> The **current** Latinum repository is here: [Latinum-Agentic-Commerce](https://github.com/Latinum-Agentic-Commerce)
+
 # Latinum Agentic Commerce: MCP Wallet + 402 Facilitator
 
 **Latinum** is a payment middleware that enables MCP builders to monetize their services.
